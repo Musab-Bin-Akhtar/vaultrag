@@ -1,0 +1,6 @@
+{
+  "name": "VaultRAG — Enterprise PDF Assistant",
+  "description": "Role-based enterprise RAG chatbot with PDF document indexing, semantic vector retrieval, page-level source citations, and Admin/User access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
